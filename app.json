@@ -14,7 +14,7 @@
   "env": {
     "PREFIX": {
       "description": "choose your prefix",
-      "value": "#",
+      "value": ":",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -24,12 +24,12 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "the bot will automatically download all statuses (yes to enable, no to disable)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "BOT_NAME": {
       "description": "A name for your bot",
-      "value": "Zokou-MD",
+      "value": "¢σиfяσитєя",
       "required": false
     },
     "MENU_THEME": {
@@ -57,7 +57,7 @@
     },
     "PRESENCE": {
       "description": "mark your presence: 1 to show you are online even if you are not. 2 to show you are typing a message. 3 to show you are recording an audio. Or leave the field empty to show your real status.",
-      "value": "1",
+      "value": "3",
       "required": false
     },
     "SESSION_ID": {
@@ -68,12 +68,12 @@
     "OWNER_NAME": {
       "description": "Your name",
       "required": false,
-      "value": "Djalega++"
+      "value": "¢σиfяσитєя"
     },
     "OWNER_NUMBER": {
       "description": "Your phone number; it must be in the format ID+number",
       "required": false,
-      "value": "22891733300"
+      "value": "254793908571"
     },
     "WARN_COUNT": {
       "description": "this is the warning limit count",
@@ -98,7 +98,7 @@
     "ANTI_DELETE_MESSAGE": {
       "description": "Put yes if you want messages deleted by other users to be sent to you in private",
       "required": false,
-      "value": "no"
+      "value": "yes"
     },
     "AUTO_REACT_MESSAGE": {
       "description": "Put yes if you want messages to be automatically reacted to",
@@ -108,12 +108,12 @@
     "AUTO_REACT_STATUS": {
       "description": "Enable automatic reactions to statuses (yes/no)",
       "required": false,
-      "value": "no"
+      "value": "yes"
     },
     "TIME_ZONE": {
       "description": "Bot time zone",
       "required": false,
-      "value": "Africa/Sao_Tome"
+      "value": "Africa/Nairobi"
     },
     "SERVER": {
       "description": "Server name",
@@ -123,7 +123,7 @@
     "STICKER_PACKNAME": {
       "description": "Sticker pack name",
       "required": false,
-      "value": "made with ❤; Zokou-MD"
+      "value": "made with ❤; 𝔠𝔬𝔫𝔣𝔯𝔬𝔫𝔱𝔢𝔯"
     }
   },
   "formation": {
