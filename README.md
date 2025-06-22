@@ -31,11 +31,11 @@
 
 ### Option 1: Cloud Hosting
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/luffy8979/Zokou-MD-english)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Frank-AI-Tech/Zokou-MD-english)
 
 ### Option 2: Download for Deployment Panels
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/luffy8979/Zokou-MD-english/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/Frank-AI-Tech/Zokou-MD-english/archive/refs/heads/main.zip)
 
 ### Minimum Configuration
 
