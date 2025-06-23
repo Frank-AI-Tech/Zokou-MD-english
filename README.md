@@ -31,7 +31,7 @@
 
 ### Option 1: Cloud Hosting
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Frank-AI-Tech/Zokou-MD-english)
+(https://dashboard.heroku.com/new?template=https://github.com/Frank-AI-Tech/Zokou-MD-english)
 
 ### Option 2: Download for Deployment Panels
 
